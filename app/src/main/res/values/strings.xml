@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SyncTasks</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_password">Password</string>
+    <string name="app_name_logo">App Logo</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register Now</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_id">User ID</string>
+    <string name="btn_register_toggle">Back to Login</string>
+    <string name="btn_add_task">Add new task</string>
+    <string name="logout">Logout</string>
+</resources>

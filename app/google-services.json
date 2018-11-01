@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "69618361940",
+    "firebase_url": "https://synctasks-d3ea1.firebaseio.com",
+    "project_id": "synctasks-d3ea1",
+    "storage_bucket": "synctasks-d3ea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69618361940:android:15d8408dc90b5ab0",
+        "android_client_info": {
+          "package_name": "com.broooapps.synctasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69618361940-dch4reai6f76ps65dutaldsj6cd3tjj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.broooapps.synctasks",
+            "certificate_hash": "4d801f3c3299ddd6ef277d986d1f5668d834ced8"
+          }
+        },
+        {
+          "client_id": "69618361940-e25dh6bc3hbn5pdg9c54qmujl371o9ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASt0p7RwC9etd5VBozwqGryyH0p2qQeiI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69618361940-e25dh6bc3hbn5pdg9c54qmujl371o9ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
